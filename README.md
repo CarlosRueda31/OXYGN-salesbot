@@ -1,6 +1,10 @@
 # OXYGN Sales Bot
 
 <p align="center">
+  <img src="banner.png" alt="OXYGN Sales Bot — WhatsApp to Telegram to Google Sheets" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3.11+-blue?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Telegram-Bot%20API-26A5E4?logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Sheets-API%20v4-34A853?logo=google-sheets&logoColor=white" />
