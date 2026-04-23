@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Deploy-Railway-0B0D0E?logo=railway&logoColor=white" />
 </p>
 
-A Telegram bot built for **OXYGN**, a Colombian nasal band e-commerce business, to automate sales tracking directly into Google Sheets. The bot replaces manual data entry by parsing unstructured customer data from WhatsApp/Instagram conversations and organizing it into a structured spreadsheet.
+A Telegram bot built for **OXYGN**, My own Colombian e-commerce business, to automate sales tracking directly into Google Sheets. The bot replaces manual data entry by parsing unstructured customer data from WhatsApp/Instagram conversations and organizing it into a structured spreadsheet.
 
 ---
 
